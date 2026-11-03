@@ -1,0 +1,17 @@
+{
+  "name": "noslop",
+  "version": "1.5.0",
+  "private": true,
+  "engines": { "node": ">=22.12.0" },
+  "description": "Development checks for the Noslop static examples and plugin.",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:browser": "playwright test",
+    "format:examples": "prettier --write \"examples/*.{html,css,js}\""
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "prettier": "3.9.10"
+  }
+}

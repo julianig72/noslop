@@ -1,10 +1,10 @@
 {
   "name": "noslop",
   "version": "1.5.0",
-  "description": "Makes or fixes Claude artifacts so anyone understands them in 5 seconds.",
-  "author": { "name": "Ruben Hassid (How to AI)", "email": "me@rubenhassid.ai" },
-  "homepage": "https://github.com/rubenhassid1/grenade",
-  "repository": "https://github.com/rubenhassid1/grenade",
+  "description": "Create or improve clear briefs, reports, dashboards, guides and tools.",
+  "author": { "name": "julianig72" },
+  "homepage": "https://github.com/julianig72/noslop",
+  "repository": "https://github.com/julianig72/noslop",
   "license": "MIT",
   "keywords": ["artifacts", "design", "writing", "slop"]
 }
